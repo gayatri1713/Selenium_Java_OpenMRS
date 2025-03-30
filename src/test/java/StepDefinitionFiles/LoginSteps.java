@@ -15,7 +15,7 @@ public class LoginSteps extends BaseClass {
 
 	@Given("Launch the application")
 	public void launch_the_application() {
-		System.out.println("Open MRS Application Launched");
+		System.out.println("Open MRS Application Launched fine");
 	}
 
 	@Then("User is able to see login page")
